@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your login success</title>
+</head>
+<body>
+
+       <div>
+           {%for names in name%}
+            <p>{{names}}</p>
+           {%endfor%}
+       </div>
+
+    <table border = '1'>
+        <tbody>
+        {%for time in times%}
+            <tr>
+                <td>{{time}}</td>
+            </tr>
+        {%endfor%}
+        </tbody>
+    </table>
+</body>
+</html>
