@@ -31,7 +31,7 @@ class __TwigTemplate_c8a99899bd866a98a61b12d247ee9d2f extends Twig_Template
         <label for=\"password\">Password</label>
         <br>
         <button type=\"submit\">Enter</button>
-        <a href=\"?logout=true\">Logout</a>
+        <a href='logout.php'>Logout</a>
     </form>
     <?php echo \$credentials['login']; ?>
 </body>
