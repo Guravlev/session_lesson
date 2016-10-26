@@ -5,9 +5,6 @@ include 'twig_connect.php';
 $credentials = array('login' => 'foo', 'password' => 'bar');
 $notLogged = true;
 
-if ($notLogged):
-    echo $twig->render('form.html', array());
-endif;
 
 if (isset($_POST['login']) && isset($_POST['password'])):
     if ($credentials['login'] == $_POST['login'] &&
@@ -23,10 +20,12 @@ if (isset($_POST['login']) && isset($_POST['password'])):
 
     elseif($credentials['login'] !== $_POST['login'] ||
            $credentials['password'] !== $_POST['password']):
+        echo $twig->render('form.html', array());
         echo "Login or password wrong!";
     endif;
     $notLogged = false;
 elseif(!isset($_POST['login']) || !isset($_POST['password'])):
+    echo $twig->render('form.html', array());
     echo "Enter Login or password!";
 endif;
 

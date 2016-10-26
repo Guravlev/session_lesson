@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efc91030-0a53-4a10-ac2f-829e24eb666c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/123.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form.php" afterPath="$PROJECT_DIR$/form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/form.html" afterPath="$PROJECT_DIR$/includes/form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/login_true.html" afterPath="$PROJECT_DIR$/includes/login_true.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/compilation_cache/7e/21/c73608a84fc8461a4581a6f34204.php" afterPath="$PROJECT_DIR$/vendor/compilation_cache/7e/21/c73608a84fc8461a4581a6f34204.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/compilation_cache/c8/a9/9899bd866a98a61b12d247ee9d2f.php" afterPath="$PROJECT_DIR$/vendor/compilation_cache/c8/a9/9899bd866a98a61b12d247ee9d2f.php" />
     </list>
     <ignored path="session_lesson.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +31,8 @@
       <file leaf-file-name="form.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="220">
+              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -105,8 +100,8 @@
         <option value="$PROJECT_DIR$/123.php" />
         <option value="$PROJECT_DIR$/includes/form.html" />
         <option value="$PROJECT_DIR$/logout.php" />
-        <option value="$PROJECT_DIR$/form.php" />
         <option value="$PROJECT_DIR$/includes/login_true.html" />
+        <option value="$PROJECT_DIR$/form.php" />
       </list>
     </option>
   </component>
@@ -232,18 +227,18 @@
       <workItem from="1477223255047" duration="409000" />
       <workItem from="1477223958854" duration="25299000" />
       <workItem from="1477497998405" duration="161000" />
-      <workItem from="1477498178571" duration="395000" />
+      <workItem from="1477498178571" duration="626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26264000" />
+    <option name="totallyTimeSpent" value="26495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="566" y="144" width="1176" height="837" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20379965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20379965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -457,8 +452,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="220">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
           <folding />
         </state>
       </provider>

@@ -32,8 +32,8 @@ class __TwigTemplate_7e21c73608a84fc8461a4581a6f34204 extends Twig_Template
         foreach ($context['_seq'] as $context["_key"] => $context["names"]) {
             // line 11
             echo "            <p>";
-            echo twig_escape_filter($this->env, $this->getAttribute((isset($context["names"]) ? $context["names"] : null), "login"), "html", null, true);
-            echo "</p>
+            echo twig_escape_filter($this->env, (isset($context["names"]) ? $context["names"] : null), "html", null, true);
+            echo "</p><!-- names.login - don`t work at all -->
            ";
         }
         $_parent = $context['_parent'];
